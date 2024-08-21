@@ -57,7 +57,7 @@ step = 0
 for pars in params:
     xargs = velocity(yargs, pars[1]*10**(-3), pars[3]*10**(-6))
 
-    text = r"Radius:\hspace{10pt}"+rf"$R = {pars[0]}$ cm" + "\n" + r"Mass:\hspace{20pt}" + rf"$M = \left({pars[1]} \pm {pars[2]}\right)$ g"+ "\n" + r"Volume:\hspace{4pt}" + rf"$V = \left({pars[3]} \pm {pars[4]}\right)$ ml"
+    text = r"Radius:\hspace{10pt}"+rf"$R = {pars[0]}$ cm" + "\n" + r"Mass:\hspace{20pt}" + rf"$m = \left({pars[1]} \pm {pars[2]}\right)$ g"+ "\n" + r"Volume:\hspace{4pt}" + rf"$V = \left({pars[3]} \pm {pars[4]}\right)$ ml"
 
     fontsize = 23
 
