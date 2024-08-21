@@ -29,3 +29,7 @@ dimensionless scaling constant's value was determined through an
 independent experiment. Finally, we conducted experiments on the 
 disk's floating and sinking, which showed a good match with the 
 proposed theory. 
+
+License
+=======
+Data and article are both published under CC BY 4.0
