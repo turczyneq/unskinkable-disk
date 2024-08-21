@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 from pathlib import Path
-# from scipy.optimize import minimize 
+# from scipy.optimize import minimize
 
 parent_dir = Path(__file__).parent / "float_nofloat"
 
@@ -34,7 +34,7 @@ theoretical line is given by ploting the following expression for Q(v):
 \\xi \\sqrt(\\rho^2 Q^3 g/4 \\pi \\nu) == g (m_{disk} - \\rho V)+\\rho Q U
 
 for derivation and physical meaning of symbols please refere to the manuscript
-TODO:(nie wiem czy arxiv jest tu dobry) https://arxiv.org/abs/2312.13099
+https://arxiv.org/abs/2312.13099
 """
 
 def velocity(Q, m_disk, V):
@@ -80,7 +80,7 @@ for pars in params:
     plt.xticks(fontsize=fontsize)
     plt.yticks(fontsize=fontsize)
     plt.legend(fontsize=fontsize, frameon=False, loc = 4)
-                                                                                                                                                                                                                        
+
     plt.minorticks_on()
     plt.tick_params(which = 'both',top=True, right=True )
 
@@ -89,3 +89,4 @@ for pars in params:
 
     plt.savefig("graphs/float_nofloat_R" + str(int(pars[0])) + ".eps",format='eps',bbox_inches='tight')
     step+=1
+
