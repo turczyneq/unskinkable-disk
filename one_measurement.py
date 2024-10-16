@@ -6,10 +6,10 @@ from pathlib import Path
 parent_dir = Path(__file__).parent
 
 # import data
-typeiia_path = parent_dir / "single_meas/type_iia.csv"
+typeiia_path = parent_dir / "single_measurement/type_iia.csv"
 typeiia = np.loadtxt(typeiia_path, delimiter=",", skiprows=1)
 
-typei_path = parent_dir / "single_meas/type_i.csv"
+typei_path = parent_dir / "single_measurement/type_i.csv"
 typei = np.loadtxt(typei_path, delimiter=",", skiprows=1)
 
 
