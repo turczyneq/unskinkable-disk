@@ -1,4 +1,4 @@
-Preventing sinking of a disk by leveraging the Parametric Hydraulic Jump phenomenon
+Preventing sinking of a disk by leveraging the boundary jump phenomenon
 ===================================================================================
 
 by Jan Turczynowicz, Radost Waszkiewicz, Łukasz Gładczuk.
