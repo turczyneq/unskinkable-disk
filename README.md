@@ -9,26 +9,17 @@ You can find a preprint on [https://arxiv.org/abs/2312.13099](https://arxiv.org/
 
 Abstract
 ========
-Although it is commonly expected that a metal disk placed on 
-the surface of water will sink, our investigation has revealed 
-a surprising phenomenon: a vertical jet directed onto the disk 
-from above can allow it to remain afloat. This result defies 
-intuition, as one would assume that the force of the jet's 
-impact would cause the disk to sink.We have discovered that this 
-phenomenon occurs as a result of water displacement from the top 
-of the disk caused by the impacting jet, operating through a 
-mechanism similar to a classical hydraulic jump. This displacement 
-generates a difference in hydrostatic pressures, resulting in an 
-upward buoyancy force capable of balancing the force of gravity. 
-In contrast to the classical case, here the jump radius is fixed 
-by the geometric parameters of a disk, a phenomenon we refer to 
-as the parametric hydraulic jump. To further explore this effect, 
-we have presented a theoretical model based on scaling laws, which 
-provides the conditions required for the disk to float. The 
-dimensionless scaling constant's value was determined through an 
-independent experiment. Finally, we conducted experiments on the 
-disk's floating and sinking, which showed a good match with the 
-proposed theory. 
+Although it is commonly expected that a metal disk placed on the surface of water will sink, our investigation
+has revealed a surprising phenomenon: a vertical jet directed onto the disk from above can allow it to remain
+afloat. This result defies intuition, as one would assume that the force of the jet’s impact would cause the
+disk to sink. We have discovered that this phenomenon occurs as a result of water displacement from the top
+of the disk caused by the impacting jet, operating through a mechanism similar to the hydraulic jump. This
+displacement generates a difference in hydrostatic pressures, resulting in an upward buoyancy force capable of
+balancing the force of gravity. In contrast to the classical case, here the jump radius is fixed by the geometric
+parameters of a disk, a phenomenon we refer to as the boundary jump. To further explore this effect, we have
+presented a theoretical model based on scaling laws, which provides the conditions required for the disk to float.
+The dimensionless scaling constant’s value was determined through an independent experiment. Finally, we
+conducted experiments on the disk’s floating and sinking, which showed a good match with the proposed theory.
 
 License
 =======
