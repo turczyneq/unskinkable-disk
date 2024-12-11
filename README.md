@@ -1,7 +1,7 @@
 Preventing sinking of a disk by leveraging the boundary jump phenomenon
 ===================================================================================
 
-by Jan Turczynowicz, Radost Waszkiewicz, Łukasz Gładczuk.
+by Jan Turczynowicz, Radost Waszkiewicz, Łukasz Gładczuk. Work was done in Fenix Science Club (Klub Naukowy Fenix)
 
 
 This repository accompanies a publication. 
